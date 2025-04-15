@@ -1,4 +1,4 @@
-![logo](https://github.com/nimra396/nimra396/blob/main/Modern%20Minimal%20Technology%20Background%20Banner.png)
+![logo](https://github.com/nimra396/nimra396/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Nimra Aamir</h1>
 <h3 align="center">A passionate software engineer from Pakistan</h3>
 <img align="right" alt="coding girl" width="400px" src="https://cdn.dribbble.com/userupload/8046474/file/original-1de7a34e8dfb6d1b9723e77458786c81.gif">
