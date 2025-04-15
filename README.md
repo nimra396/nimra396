@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nimra Aamir</h1>
 <h3 align="center">A passionate software engineer from Pakistan</h3>
-
+<img align="right" alt="coding girl" width="400px" src="![image](https://github.com/user-attachments/assets/571bbc7a-0f21-4921-a5b8-fc8e387b777d)
+">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimra396&label=Profile%20views&color=0e75b6&style=flat" alt="nimra396" /> </p>
 
 - 🔭 I’m currently working on my FYP **Brain Buddy**
