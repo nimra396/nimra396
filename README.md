@@ -1,6 +1,7 @@
 ![logo](https://github.com/nimra396/nimra396/blob/main/Banner.png)
 <h1 align="center">Hi 👋, I'm Nimra Aamir</h1>
 <h3 align="center">A passionate software engineer from Pakistan</h3>
+<img align="right" alt="Coding girl" width="300" src = "https://cdn.dribbble.com/userupload/8046474/file/original-1de7a34e8dfb6d1b9723e77458786c81.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nimra396&label=Profile%20views&color=0e75b6&style=flat" alt="nimra396" /> </p>
 
